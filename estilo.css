@@ -1,0 +1,17 @@
+
+.FormDatos{
+  width: 400px;
+  padding: 50px;
+  margin: auto;
+  background-color: rgb(193, 209, 226);
+  border-radius: 20px;
+  margin-top: 60px; 
+  border: 2px solid rgb(0, 0, 4);
+}.inputs{
+    padding: 8px;
+    width: 370px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(15, 15, 1, 0.765);
+  }
